@@ -1,0 +1,31 @@
+What are different Data structures 
+1.	Array
+2.	Stack
+3.	Queue
+4.	String
+5.	Linked list
+6.	Trees
+7.	Graphs
+8.	Tries
+9.	Hash table
+Algorithms 
+1.	Sorting 
+2.	Searching (BFS + DFS)
+3.	Dynamic programming
+4.	Recursion
+Operations on a data structure are 
+1.	Insertion
+2.	Deletion
+3.	Traversal
+4.	Searching
+5.	Sorting
+6.	Access
+
+
+
+ARRAYS:
+They organize data sequentially. 
+LookUp	o(1)
+append	o(n)
+Insert	o(n)
+Delete	O(n)
